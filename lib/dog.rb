@@ -1,4 +1,5 @@
 require 'pry'
+
 class Dog 
   
   attr_accessor :name 
@@ -17,7 +18,7 @@ class Dog
   end
   
   def clear_all
-    
+    nada
   end
   
 end
