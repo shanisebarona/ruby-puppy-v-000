@@ -9,8 +9,8 @@ class Dog
   end
   
   def self.all
-    @all.each do |indy_dogs|
-      puts indy_dogs.name
+    @all.each do |dogs|
+      puts dogs.name
     end
   end
   
