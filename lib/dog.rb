@@ -12,6 +12,7 @@ class Dog
     @all.each do |dogs|
       puts dogs.name
     end
+    binding.pry
   end
   
   def clear_all
