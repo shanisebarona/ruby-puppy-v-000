@@ -1,4 +1,5 @@
 class Dog 
+  
   attr_accessor :name 
   @@all = []
   
@@ -12,11 +13,5 @@ class Dog
       puts indy_dogs
     end
   end
-  
-  
-  
-  
-  
-  
   
 end
